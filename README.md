@@ -51,7 +51,7 @@ F2B4-DeathSwap เป็นปลั๊กอินสำหรับจัด�
 ## 4. ข้อกำหนดของระบบ (Requirements)
 
 - **Java Version:** 17 หรือ 21
-- **Server Software:** Paper, Purpur หรือ Spigot (Minecraft เวอร์ชัน 1.20 ขึ้นไป)
+- **Server Software:** Paper, Purpur หรือ Spigot (Minecraft เวอร์ชัน 1.21.11 ขึ้นไป)
 - **Dependencies (ทางเลือก):**
   - **WorldGuard 7.x:** จำเป็นสำหรับการเปิดใช้งานระบบตรวจสอบเขตปลอดภัย (Safe Regions)
   - **WorldEdit:** ใช้งานร่วมกับ WorldGuard
@@ -105,7 +105,3 @@ discord-webhook:
 - `discord-webhook.avatar-url`: ลิงก์รูปภาพสำหรับใช้เป็นภาพประจำตัวของผู้ส่งข้อความใน Discord
 
 ---
-
-## 7. ใบอนุญาตการใช้งาน (License)
-
-โครงการนี้เผยแพร่ภายใต้สัญญาอนุญาตเปิดเผยรหัสต้นฉบับ (Open Source License) โปรดตรวจสอบรายละเอียดเงื่อนไขการใช้งานในไฟล์ `LICENSE`
