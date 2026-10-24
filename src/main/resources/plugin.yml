@@ -1,0 +1,8 @@
+name: F2B4_DeathSwap
+version: 1.0
+main: f2b4.Death_Swap.F2B4_DeathSwap
+api-version: 1.20
+commands:
+  dstest:
+    description: ทดสอบการวาร์ปสลับตัวทันที
+    permission: f2b4.admin

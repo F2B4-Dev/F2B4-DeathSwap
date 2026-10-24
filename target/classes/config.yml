@@ -1,0 +1,20 @@
+#notch is real
+
+# F2B4 Death Swap Configuration
+event-info-url: "https://google.com"
+
+safe-regions:
+  - "spawn"
+
+  # ระบบแจ้งเตือน Discord Webhook
+discord-webhook:
+  enabled: false
+  url: ""
+  # ปรับแต่งข้อความ
+  start-title: "💀 กิจกรรม Death Swap เริ่มขึ้นแล้ว!"
+  stop-title: "✅ จบกิจกรรม Death Swap ประจำรอบนี้"
+  avatar-url: "https://mc-heads.net/avatar/MHF_Skeleton"
+
+# กิจกรรมจะจัดขึ้นโดยอัตโนมัติในทุกวัน พุธ และ อาทิตย์ ตามเวลาดังนี้
+# รอบบ่าย 15:00 - 16:00
+# รอบค่ำ 19:00 - 20:00
